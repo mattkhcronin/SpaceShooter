@@ -1,8 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
-MinimumVisualStudioVersion = 10.0.40219.1
+# Visual Studio 2015
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space_shooter.CSharp", "Space_shooter.CSharp.csproj", "{D4F1C6EA-24A3-52E6-73D1-95503B05E0B4}"
 EndProject
 Global
